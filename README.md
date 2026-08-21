@@ -48,11 +48,9 @@ Current projects include:
 
 ## 📂 Featured Repository
 
-### Endpoint Management Labs
+### [Endpoint Management Labs](https://github.com/ITQED100/Endpoint-Management-Labs-)
 
 Hands-on labs covering modern endpoint management, security operations, automation, troubleshooting, and Microsoft security technologies.
-
-**`ITQED100/Endpoint-Management-Labs`**
 
 ---
 
