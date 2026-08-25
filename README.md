@@ -67,7 +67,7 @@ Current areas of focus include:
 
 Hands-on labs covering modern endpoint management, security operations, automation, troubleshooting, and Microsoft security technologies.
 
-### AI Playground
+### [AI Playground](https://github.com/ITQED100/ITQED100/tree/main/AI)
 
 A growing collection of hands-on AI labs focused on practical implementation, experimentation, and validation.
 
