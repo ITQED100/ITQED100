@@ -1,5 +1,5 @@
 # Hi, I'm ITQED100 👋
-![ITQED100 Proof Driven Banner](ghost-proof-banner.gif)
+![ITQED100 Proof Driven Banner](ITQED100.png)
 
 ![Endpoint Security](https://img.shields.io/badge/Endpoint%20Security-Engineering-blue)
 ![MECM](https://img.shields.io/badge/MECM%20%2F%20SCCM-Enterprise%20Management-blueviolet)
